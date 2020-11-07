@@ -16,7 +16,7 @@ public class railway	//Railway class
 		customername=custname;
 	}
 	railway(String name,String age,String phno,int b1,int b2,manager Manager)
-	{
+	 {
 			this.name=name;
 			this.phno=phno;
 			this.age=age;
