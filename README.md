@@ -10,3 +10,6 @@ The railway management system is created using java language and we have impleme
 * package and interface keywords.
 * exception handling.
 * multithreading- thread class, runnable interface, thread synchronization and thread communication.
+* generic concepts
+* collectionss
+* JDBC with swing
